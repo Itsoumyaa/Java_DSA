@@ -1,5 +1,6 @@
 import java.util.*;
 public class NextPermutation {
+    // method for next permutation.
     static void Nextpermutation(int[] arr){
         int p=-1;
         int n=arr.length;
